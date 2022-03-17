@@ -1,0 +1,5 @@
+123,momo,BOFA,01-01-2022,payment,870
+123,momo,BOFA,05-01-2022,payment,130
+252,  coco,  UBS,  02-02-2022, transfer,    200
+252,  coco,  UBS,  09-02-2022, transfer ,   100
+101,  itamar,  UBS,  09-02-2023, transfer,    785
